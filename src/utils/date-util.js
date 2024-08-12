@@ -24,3 +24,4 @@ function getFormattedDate(value, type, inMs) {
 export {
     getFormattedDate
 };
+
